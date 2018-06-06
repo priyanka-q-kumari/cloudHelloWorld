@@ -92,6 +92,7 @@
 			<scope>provided</scope>
 		</dependency>
 		<!-- Xml configuration -->
+		
 		<dependency>
 			<groupId>com.mulesoft.muleesb.modules</groupId>
 			<artifactId>mule-module-spring-config-ee</artifactId>
